@@ -2,6 +2,9 @@
 
 A lightweight yet powerful full-stack web application that turns your PDF résumés into concise, AI-generated insights.
 
+<img width="952" height="444" alt="image" src="https://github.com/user-attachments/assets/48bcbfad-67a4-44b0-b6c7-213b5be19bc9" />
+
+
 ---
 
 ## 📌 Overview
